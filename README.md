@@ -81,6 +81,8 @@ ___
 
 💜 Também vimos que é recomendado utilizar apenas seletores de classes, em detrimento dos seletores de ID, de TAG ou seletores alinhados. Isso porque os seletores de classes facilitam as edições caso seja necessário sobrescrevê-los.
 
+Site: [Fruta&Fruto](https://fruta-e-fruto-webpage.netlify.app/)
+
 #oraclenexteducation #alura #souback #one #voaone
 
 ### Certificado
