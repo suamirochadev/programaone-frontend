@@ -33,7 +33,7 @@ ___
 
 ## Curso 2: Layouts e Responsividades 📲
 
-# <img src="https://cdn.discordapp.com/attachments/1045720339772088342/1075093564561838110/logo-apeperia_1.png" width="30%" />
+ <img src="https://cdn.discordapp.com/attachments/1045720339772088342/1075093564561838110/logo-apeperia_1.png" width="30%" />
 
 # Projeto Apeperia
 Do curso de Layouts Responsivos da Alura.
@@ -62,3 +62,26 @@ Do curso de Layouts Responsivos da Alura.
 
 ### Certificado
 🎓: [Clique aqui ♥](https://github.com/suamirocha/Oracle_Alura_Programa_T4_ONE_Front_End/blob/main/02%20Layouts%20Responsivos/Layouts%20Responsivos.pdf)
+
+___
+
+## Curso 3: Arquitetura CSS 🎎
+
+<img src="https://cdn.discordapp.com/attachments/1045720339772088342/1077669951390884011/image.png" />
+
+💜 Nós criamos um projeto referente a um site de receitas chamado Fruta e Fruto, contendo um cabeçalho, um banner, informações sobre o site, uma listagem de receitas, as pessoas que estão por trás do site e, por fim, um rodapé com informações de contato.
+
+💜 No desenvolvimento do projeto, usamos boas práticas de CSS para que a manutenção do nosso código fique o mais fácil e simples possível. Vimos que é interessante utilizar uma metodologia chamada BEM (Block, Element, Modifier) para nomear as nossas classes CSS.
+
+💜 Nessa metodologia, o "block" representa um componente "pai"; os elementos são os "filhos" desse componente; e os modificadores são classes que modificarão esse componente.
+
+💜 Também utilizamos a metodologia Atomic Design, criando um arquivo para cada CSS e, dessa forma, mantendo nossos códigos curtos e simples, facilitando a manutenção. O conceito do Atomic Design lembra a química, onde os átomos formam moléculas, que por sua vez formam organismos.
+
+💜 Aprendemos que é interessante organizarmos as propriedades dos nossos arquivos CSS em ordem alfabética, facilitando a busca em nosso código. Por exemplo, se estamos no color e queremos alterar o margin-right, sabemos que ele estará mais abaixo.
+
+💜 Também vimos que é recomendado utilizar apenas seletores de classes, em detrimento dos seletores de ID, de TAG ou seletores alinhados. Isso porque os seletores de classes facilitam as edições caso seja necessário sobrescrevê-los.
+
+#oraclenexteducation #alura #souback #one #voaone
+
+### Certificado
+🔗: [Clique aqui](https://github.com/suamirocha/Oracle_Alura_Programa_T4_ONE_Front_End/blob/main/03%20Arquitetura%20CSS/Certificado/Arquitetura%20CSS.pdf)
