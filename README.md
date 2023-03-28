@@ -67,7 +67,7 @@ Segue no link abaixo o certificado do curso
 [Certificado Flexbox](https://cdn.discordapp.com/attachments/1045720339772088342/1090005708570902618/Flexbox.png)
 
 
-___
+_____
 
 
 ## Layouts Responsivos - 2
@@ -135,7 +135,7 @@ Segue no link abaixo o certificado do curso
 [Certificado Layouts Responsivos](https://cdn.discordapp.com/attachments/1045720339772088342/1090104753389830366/Layout_Responsivos.png)
 
 
-___
+_____
 
 
 ## Arquitetura CSS - 3
@@ -157,7 +157,7 @@ Se diminuirmos o tamanho da tela, veremos que o site é responsivo, se adaptando
 
 - Aprendemos boas práticas e metodologias sobre CSS.
 
--Deixamos o site responsivo.
+- Deixamos o site responsivo.
 
 ## Stack utilizada
 
@@ -201,7 +201,7 @@ Segue no link abaixo o certificado do curso
 
 [Certificado Arquitetura CSS](https://cdn.discordapp.com/attachments/1045720339772088342/1078020550334615713/image.png)
 
-__
+____
 
 
 ## Javascript - 4
@@ -259,4 +259,66 @@ Segue no link abaixo o certificado do curso
 
 [Certificado Javascript 01](https://cdn.discordapp.com/attachments/1045720339772088342/1090127802667368518/javascript01.png)
 
+____
 
+
+## Javascript: Manipulando a DOM - 5
+
+Nós aprendemos o que é o DOM e como percorrer a árvore de nós do DOM.
+
+Se voltarmos na nossa aplicação, nós criamos dentro do main.js, trabalhamos prevenindo o comportamento de formulário, então aprendemos como funciona o comportamento padrão do formulário, aprendemos como selecionar o valor do input utilizando a propriedade de value.
+
+Nós utilizamos um método chamado querySelector para buscar o seletor e esse seletor é o “Data Attributes”. Então, nós aprendemos também porquê utilizar “Data Attributes” no nosso código, aprendemos a criar templates utilizando “Template String”.
+
+Sabemos também trabalhar com appendChild para colocar um nó logo no final de um outro nó, então, colocar um elemento-filho dentro do elemento-pai. Trabalhamos também com eventos, estamos trabalhando com evento de click do botão.
+
+E trabalhamos também com o conceito de componente. É uma coisa reutilizável, criamos um componente de botão, e no final usamos o expor default dentro do arquivo do componente do botão para encapsular nosso código, para proteger nosso código.
+
+Para chamar o componente, aqui no main.js, nós utilizamos o import. Então, chamamos apenas o BotaoConclui, não a função que há lá dentro. Tudo isso para proteger nosso código. Aprendemos também o porquê de utilizar um servidor para subir nossa aplicação quando estamos trabalhando aqui com módulos.
+
+Então, nós aprendemos sobre CORS, sobre “same origin policy”.
+## Roadmap
+
+- Aprendemos como funciona o DOM.
+- Manipulamos o DOM para alterar, adicionar, remover e criar novos elementos na árvore de objetos.
+- Trabalhamos com componentização para facilitar a organização do projeto.
+- Utilizamos o sistema de módulos do Javascript para proteger os arquivos.
+
+## Stack utilizada
+
+**Front-end:** HTML5, CSS3 e JavaScript
+
+
+## Screenshots
+
+![Ceep](https://cdn.discordapp.com/attachments/1045720339772088342/1090328219649065000/image.png)
+## Demonstração
+
+![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ5YTNlNzUzODRkZWY3ZTU2YmE5MjZmYjFkZTI2ZmIxOTU4NjdiMSZjdD1n/nI53xoDVgZffo6y2UH/giphy.gif)
+
+❤️
+[Clique aqui e assista no YouTube!](https://youtu.be/c-wjIjw2h3o)
+## Deploy
+
+Para fazer o deploy desse projeto rode
+
+```bash
+  npm run deploy
+```
+
+ou acesse o site [clicando aqui](https://app-ceep-alura.netlify.app/).
+## Referência
+
+ - [Curso JavaScript: manipulando a DOM - Alura](https://cursos.alura.com.br/course/javascript-manipulacao-dom)
+## Autores
+
+- [@aluraonline](https://www.alura.com.br/)
+- [@oracledobrasil](https://www.oracle.com/br/education/oracle-next-education/)
+
+## Certificado
+
+Segue no link abaixo o certificado do curso
+
+[Certificado Javascript 02](https://cdn.discordapp.com/attachments/1045720339772088342/1090331542267645952/javascript02.png)
+
+____
