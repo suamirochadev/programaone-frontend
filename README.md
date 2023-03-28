@@ -322,3 +322,49 @@ Segue no link abaixo o certificado do curso
 [Certificado Javascript 02](https://cdn.discordapp.com/attachments/1045720339772088342/1090331542267645952/javascript02.png)
 
 ____
+
+
+## Javascript: Validação de formulário - 6
+
+Nos dedicaremos a um projeto chamado “Doguito Pet Shop” temos duas páginas para trabalhar.
+
+Uma página vai ser a página de cadastro de pessoa. Então, quando a pessoa for entrar na Pet Shop e quiser se cadastrar para poder comprar produtos ou ver notícias, por exemplo, ela vai ter que fazer passar por esse formulário de cadastro. E nós vamos validar esse formulário, nós vamos utilizar HTML puro, vamos utilizar atributos que já existem dentro do próprio HTML para fazer validações básicas e até avançadas desses campos, como, por exemplo, nome, e-mail e senha. E depois nós vamos criar variações customizadas com JavaScript.
+
+Então, por exemplo, data de nascimento, vamos criar uma validação de idade para saber se a pessoa é menor de idade ou não para se cadastrar no site. E nós vamos chegar até fazer requisições para as outras APIs, como é o caso do CEP, por exemplo, preenchendo um CEP ele vai preencher os outros campos de endereço automaticamente.
+
+E nós vamos ver também como utilizar máscaras para nossa validação do formulário. Então na outra página que nós temos para trabalhar, que vai ser a página administrativa de cadastro de produto, nós vamos aprender a utilizar máscara monetária. Como nós vamos importar essa máscara, onde pegar essa máscara e também como configurar para usar de acordo com o que nós precisamos. Então fique comigo durante todo esse curso que nós vamos aprender bastante.
+## Roadmap
+
+- Validamos formulários utilizando as ferramentas do próprio HTML5.
+- Criamos suas próprias validações customizadas utilizando técnicas atuais com JavaScript.
+- Aprendemos como preencher campos de endereço automaticamente com requisições à API da ViaCEP.
+- Aplicamos uma máscara monetária em campos de preço.
+
+## Stack utilizada
+
+**Front-end:** HTML5, CSS3 e JavaScript
+## Screenshots
+
+![Doguito Pet Shop](https://cdn.discordapp.com/attachments/1045720339772088342/1090342000823369798/image.png)
+## Demonstração
+
+![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFhM2Q4NWZkNjlmYzM0MWMyZTFiZjZhNTU3NTZiZjhiYjdkMWQ3YyZjdD1n/7lvlJKDma1BVuw2Bmi/giphy.gif)
+
+❤️
+[Clique aqui e assista no YouTube!](https://youtu.be/BBesDQoPsok)
+
+## Referência
+
+ - [JavaScript na Web: validação de Formulários e HTML5 - Alura](https://cursos.alura.com.br/course/javascript-web-validacao-formularios-html5)
+
+ - [Preenchendo formulário HTML automaticamente com AJAX](https://www.alura.com.br/artigos/preenchendo-formulario-html-automaticamente-com-ajax)
+## Autores
+
+- [@aluraonline](https://www.alura.com.br/)
+- [@oracledobrasil](https://www.oracle.com/br/education/oracle-next-education/)
+
+## Certificado
+
+Segue no link abaixo o certificado do curso
+
+[Certificado Javascript 03](https://cdn.discordapp.com/attachments/1045720339772088342/1086369697534062692/image.png)
