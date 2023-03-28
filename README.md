@@ -480,3 +480,58 @@ Segue no link abaixo o certificado do curso
 ____
 
 
+## JS na web: CRUD com JavaScript assíncrono - 9
+
+Neste curso vamos criar um CRUD com JavaScript consumindo dados externos.
+
+CRUD é um acrônimo para criar, ler, atualizar e deletar dados de uma aplicação. Fazendo este curso, vamos trabalhar em cima dessa aplicação, que é o Doguito Petshop, vamos gerar essa linha da tabela dinamicamente com JavaScript, e aqui temos as possibilidades. Ele já está listando os dados dos clientes que tenho cadastrados na API. Posso criar um cliente novo, o Lucas, vou colocar o e-mail dele, cliquei em cadastrar.
+
+Deu tudo certo, voltei, ele fez a requisição, listou todos os clientes novamente, o Lucas apareceu aqui, posso editar o Lucas para Luca, por exemplo, clicar em editar. Deu tudo certo. Ele editou para mim. E posso também excluir o Luca do meu sistema. Tudo isso vamos utilizar verbos http para fazer essas manipulações de dados.
+
+Vamos trabalhar com async await, try catch, vamos aprender promise, vamos manipular DOM, e vamos aprender bastante coisa durante este curso. O pré-requisito para este curso é o de js manipulando DOM, porque já precisamos ter um conhecimento prévio de manipulação de DOM.
+## Roadmap
+
+- Criamos um CRUD utilizando o método fetch e os verbos HTTP.
+- Aprendemos a consumir dados de uma API e exibir no seu front-end.
+- Entendemos como utilizar o método fetch para consumir dados de uma API.
+- Manipulamos os verbos HTTP através do método fetch.
+- Aprendemos como funcionam as promises no JavaScript.
+## Stack utilizada
+
+**Front-end:** Html, Css, JavaScript e API
+## Screenshots
+
+![Site PetShop](https://cdn.discordapp.com/attachments/1045720339772088342/1090381017426165901/image.png)
+## Demonstração
+
+![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWMzYzc2YzgxOTk3NmVmNTBlY2VhMjc4MTZhMDIxZGU0YTRjNjEwNSZjdD1n/H1WVqSnxyOnyU3UmrA/giphy.gif)
+
+❤️
+[Clique aqui e assista no YouTube!](https://youtu.be/1FQCPkV7pGs)
+## Deploy
+
+rodar o json server: 
+```js
+json-server --watch db.json
+```
+
+rodar o browsersync:
+```
+browser-sync start --server --file . --host --port 5000 --startPath telas/lista_cliente.html
+```
+ou acesse o site [clicando aqui](https://app-ceep-alura.netlify.app/).
+## Referência
+
+ - [JS na web: CRUD com JavaScript assíncrono - Alura](https://cursos.alura.com.br/course/javascript-crud-assincrono)
+
+ - [Mockando APIs REST com json-server](https://www.alura.com.br/artigos/mockando-apis-rest-com-json-server)
+## Autores
+
+- [@aluraonline](https://www.alura.com.br/)
+- [@oracledobrasil](https://www.oracle.com/br/education/oracle-next-education/)
+
+## Certificado
+
+Segue no link abaixo o certificado do curso
+
+[Certificado Javascript 06](https://cdn.discordapp.com/attachments/1045720339772088342/1090378865475588196/image.png)
