@@ -1,89 +1,202 @@
-<img src="https://cdn.discordapp.com/attachments/1045720339772088342/1073356744580931706/image.png">
+![Logo](https://cdn.discordapp.com/attachments/1045720339772088342/1073356744580931706/image.png)
 
-### FrontEnd_ProgramONET4
-O ONE é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
+# Trilha Front End Program ONE Oracle&Alura
+
+O ONE é um programa de educação e empregabilidade 
+com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio 
+de empresas parceiras.
 
 
-## Curso 1: Flexbox 📦
 
-### Resumo sobre o projeto
- Tivemos como prática a reorganização da página Alurinha, onde aplicamos os conceitos mais importantes da Flexbox. Também aprendemos sobre responsividade e como utilizar de forma eficiente. Posicionamos elementos na página utilizando somente Flexbox.
- 
-### Antes sem Flexbox
-<img src="https://cdn.discordapp.com/attachments/1045720339772088342/1073359960798400512/image.png" width="500">
+## Flexbox - 1
 
-### Depois com Flexbox
-<img src="https://cdn.discordapp.com/attachments/1045720339772088342/1073353494339268718/image.png" width="500">
+Tivemos como prática a reorganização da página Alurinha, onde aplicamos os conceitos mais importantes da Flexbox. Também aprendemos sobre responsividade e como utilizar de forma eficiente. Posicionamos elementos na página utilizando somente Flexbox.
 
-### Gif
-<img src="https://media.giphy.com/media/EgHTQkMtWUImD8Z4Ub/giphy.gif">
 
-### Deploy
-🔗: [Clique aqui 🧡](https://alurinha-programonet4.netlify.app/)
+## Roadmap
 
-### Video
-▶️ [Clique aqui 🧡](https://youtu.be/GXNTPUN8hCc)
+- Especificação flexible box para posicionar seus elementos na página.
 
-### Tags
-Html, Css, Flexbox, Responsividade Mobile
+- Propriedades do flexbox e como usá-las.
 
-### Certificado
-🎓 [Clique aqui 🧡](https://github.com/suamirocha/FrontEnd_ProgramONET4/tree/main/Curso%201%20Flexbox/Flexbox%20Certificado)
+- Como as propriedades do flexbox substituem float, inline e inline-block.
+
+- Elaborar um site responsivo com flexbox.
+
+## Stack utilizada
+
+**Front-end:** HTML5 e CSS3
+
+
+## Screenshots
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1045720339772088342/1073353494339268718/image.png)
+
+
+## Demonstração
+
+![Gif](https://media.giphy.com/media/EgHTQkMtWUImD8Z4Ub/giphy.gif)
+
+❤️
+[Clique aqui e assista no YouTube!](https://youtu.be/GXNTPUN8hCc)
+## Deploy
+
+Para fazer o deploy desse projeto rode
+
+```bash
+  npm run deploy
+```
+
+ou acesse o site [clicando aqui](https://projeto-alurinha-programone.netlify.app/).
+## Referência
+
+ - [Curso Flexbox - Alura](https://cursos.alura.com.br/course/posicione-elementos-com-flexbox)
+ - [Guia do CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+ - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+
+
+## Autores
+
+- [@aluraonline](https://www.alura.com.br/)
+- [@oracledobrasil](https://www.oracle.com/br/education/oracle-next-education/)
+
+## Certificado
+
+Segue no link abaixo o certificado do curso
+
+[Certificado Flexbox](https://cdn.discordapp.com/attachments/1045720339772088342/1090005708570902618/Flexbox.png)
+
+
 ___
 
-## Curso 2: Layouts e Responsividades 📲
 
- <img src="https://cdn.discordapp.com/attachments/1045720339772088342/1075093564561838110/logo-apeperia_1.png" width="30%" />
+## Layouts Responsivos - 2
 
-# Projeto Apeperia
-Do curso de Layouts Responsivos da Alura.
+Criação da página Apeperia para aprender alguns conceitos de media queries. Criar estilizações diferentes para diversos dispositivos com media queries;
+Adaptar estrutura e conteúdo para layouts diferentes;
+Progredir de um layout mobile até um layout para desktop;
+## Roadmap
 
-## Processo de desenvolvimento da página:
+- Entendendo o processo de desenvolvimento de páginas web.
 
-♥ Começando pelo Emmet, que agilizou muito na forma que produzimos código. Então conseguimos criar diversos blocos complexos com poucos comandos. Também vimos as unidades “rem” e “iem” o que elas faziam.
+- Conhecendo o Emmet, ferramenta para agilizar a escrita de códigos.
 
-♥ Vimos também os tipos de imagens como por exemplo, SVG e quais as principais diferenças entre elas.
+- Melhorando a manutenção de códigos com variáveis CSS.
 
-♥ Também revemos o funcionamento da tag “meta”, a tag “meta viewport”. Também aproveitamos e entendemos como que funciona o “initial scale”.
+- Escrevendo códigos semânticos que ajudam na acessibilidade e SEO.
 
-♥ Na seção de destaques também, nós vimos como que faz para a imagem ocupar toda largura da tela, e não só o espaço disponível para ela. Também criamos nossas variáveis CSS e utilizamos também para podermos colocar as propriedades em outros lugares.
+- Aprendendo a lidar com adaptação de diferentes layouts.
 
-♥ Tentamos também porque é interessante começar pormos dispositivos mais limitados e depois irmos evoluindo para dispositivos com mais capacidades.
+- Aprimorando o conhecimento de responsividade.
 
-♥ Falamos sobre “media query” e “media types”.
+## Stack utilizada
 
-♥ E finalizamos finalmente a nossa página para tablet e depois para desktop.
+**Front-end:** HTML5 e CSS3
 
-### Resultado
 
-🔗: [Clique aqui ♥](https://apeperia-alura-oracle.netlify.app/)
+## Screenshots
 
-<img src="https://cdn.discordapp.com/attachments/1045720339772088342/1075095306229784657/Shot.png" />
+![App Screenshot](https://cdn.discordapp.com/attachments/1045720339772088342/1089937737869697034/image.png)
 
-### Certificado
-🎓: [Clique aqui ♥](https://github.com/suamirocha/Oracle_Alura_Programa_T4_ONE_Front_End/blob/main/02%20Layouts%20Responsivos/Layouts%20Responsivos.pdf)
+
+## Demonstração
+
+![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhkNGM4M2Q3NGM3ZjkwMzkwOGM3ZjQzZGZjMjAyZjJhMDIwMDZlMSZjdD1n/9cdmxOVqd4gv6LfIGr/giphy.gif)
+
+❤️
+[Clique aqui e assista no YouTube!](https://youtu.be/zYqURVlezFY)
+
+❤️
+[Clique aqui e assista a versão mobile](https://www.youtube.com/shorts/QYq0Nq8-1cc)
+## Deploy
+
+Para fazer o deploy desse projeto rode
+
+```bash
+  npm run deploy
+```
+
+ou acesse o site [clicando aqui](https://apeperia-alura-oracle.netlify.app/).
+## Referência
+
+ - [Curso Layouts Responsivos - Alura](https://cursos.alura.com.br/course/mobile-first-layouts-responsivos)
+ - [Como lidar com os limites de resolução em sites responsivos?](https://www.alura.com.br/artigos/como-lidar-com-os-limites-de-resolucao-em-sites-responsivos)
+
+
+## Autores
+
+- [@aluraonline](https://www.alura.com.br/)
+- [@oracledobrasil](https://www.oracle.com/br/education/oracle-next-education/)
+
+## Certificado
+
+Segue no link abaixo o certificado do curso
+
+[Certificado Layouts Responsivos](https://cdn.discordapp.com/attachments/1045720339772088342/1090104753389830366/Layout_Responsivos.png)
+
 
 ___
 
-## Curso 3: Arquitetura CSS 🎎
 
-<img src="https://cdn.discordapp.com/attachments/1045720339772088342/1077669951390884011/image.png" />
+## Arquitetura CSS - 3
 
-💜 Nós criamos um projeto referente a um site de receitas chamado Fruta e Fruto, contendo um cabeçalho, um banner, informações sobre o site, uma listagem de receitas, as pessoas que estão por trás do site e, por fim, um rodapé com informações de contato.
+Desenvolvemos o site de receitas Fruta & Fruto, incluindo :
 
-💜 No desenvolvimento do projeto, usamos boas práticas de CSS para que a manutenção do nosso código fique o mais fácil e simples possível. Vimos que é interessante utilizar uma metodologia chamada BEM (Block, Element, Modifier) para nomear as nossas classes CSS.
+cabeçalho;
+banner;
+seção Sobre;
+listagem de receitas;
+seção *Quem somos, com as pessoas envolvidas na empresa;
+rodapé com informações de contatos
+Se diminuirmos o tamanho da tela, veremos que o site é responsivo, se adaptando às alterações. Com isso, também será possível acessá-lo de maneira agradável mesmo em um celular, tablet ou desktop. Para o desenvolvimento desse site usaremos algumas boas práticas de CSS, como a metodologia Atomic Design, com a qual organizaremos e arquitetaremos nosso projeto de maneira mais eficiente e de fácil manutenção.
+## Roadmap
 
-💜 Nessa metodologia, o "block" representa um componente "pai"; os elementos são os "filhos" desse componente; e os modificadores são classes que modificarão esse componente.
+- Simplificamos a organização dos arquivos CSS.
 
-💜 Também utilizamos a metodologia Atomic Design, criando um arquivo para cada CSS e, dessa forma, mantendo nossos códigos curtos e simples, facilitando a manutenção. O conceito do Atomic Design lembra a química, onde os átomos formam moléculas, que por sua vez formam organismos.
+- Criamos arquiteturas CSS simples e robusta.
 
-💜 Aprendemos que é interessante organizarmos as propriedades dos nossos arquivos CSS em ordem alfabética, facilitando a busca em nosso código. Por exemplo, se estamos no color e queremos alterar o margin-right, sabemos que ele estará mais abaixo.
+- Aprendemos boas práticas e metodologias sobre CSS.
 
-💜 Também vimos que é recomendado utilizar apenas seletores de classes, em detrimento dos seletores de ID, de TAG ou seletores alinhados. Isso porque os seletores de classes facilitam as edições caso seja necessário sobrescrevê-los.
+-Deixamos o site responsivo.
 
-Site: [Fruta&Fruto](https://fruta-e-fruto-webpage.netlify.app/)
+## Stack utilizada
 
-#oraclenexteducation #alura #souback #one #voaone
+**Front-end:** HTML5 e CSS3
 
-### Certificado
-🔗: [Clique aqui](https://github.com/suamirocha/Oracle_Alura_Programa_T4_ONE_Front_End/blob/main/03%20Arquitetura%20CSS/Certificado/Arquitetura%20CSS.pdf)
+
+## Screenshots
+
+![Site Screenshot](https://cdn.discordapp.com/attachments/1045720339772088342/1077669951390884011/image.png)
+
+
+## Demonstração
+
+![Gif](https://media.giphy.com/media/M0tQ3wHeupilvz1ZiN/giphy.gif)
+
+❤️
+[Clique aqui e assista no YouTube!](https://www.youtube.com/watch?v=4zwHs_9unlM)
+## Deploy
+
+Para fazer o deploy desse projeto rode
+
+```bash
+  npm run deploy
+```
+
+ou acesse o site [clicando aqui](https://fruta-e-fruto-webpage.netlify.app/).
+## Referência
+
+ - [Curso Arquitetura CSS - Alura](https://cursos.alura.com.br/course/arquitetura-css)
+ - [Tudo que você precisa saber sobre resoluções](http://sergiolopes.org/resolucoes-dpi-pixel-ratio-retina/)
+
+
+## Autores
+
+- [@aluraonline](https://www.alura.com.br/)
+- [@oracledobrasil](https://www.oracle.com/br/education/oracle-next-education/)
+
+## Certificado
+
+Segue no link abaixo o certificado do curso
+
+[Certificado Arquitetura CSS](https://cdn.discordapp.com/attachments/1045720339772088342/1078020550334615713/image.png)
