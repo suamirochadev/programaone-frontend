@@ -412,3 +412,71 @@ E nós vamos ver também como utilizar máscaras para nossa validação do formu
 Segue no link abaixo o certificado do curso
 
 [Certificado Javascript 04](https://cdn.discordapp.com/attachments/1045720339772088342/1090373943434682459/image.png)
+
+____
+
+
+## Javascript: Interfaces e Heranças em Orientação a Objetos - 8
+
+Vamos continuar nosso projeto para o ByteBank. Faremos o nosso sistema de contas funcionar melhor, de uma maneira mais eficiente e reutilizando o código.
+
+Agora teremos um projeto um pouco mais organizado, já que ele ficou maior, e vamos continuar criando nossa conta-corrente. Se vocês repararem, ela está menor do que no curso anterior, porque agora estamos usando herança, estamos estendendo e compartilhando o código entre vários tipos de contas que criamos.
+
+Temos uma conta-corrente, uma conta poupança, uma conta salário e assim por diante. Nós vamos melhorar o nosso sistema de contas e deixá-lo fácil para trabalhar. Para se no futuro o ByteBank quiser outros tipos de contas, como uma conta empresarial, uma conta CNPJ ou uma conta conjunta, nós conseguirmos fazer isso de uma maneira fácil, com pouquíssimo trabalho.
+
+E ainda tem todas as vantagens que vimos no curso anterior, onde trabalhamos com assessores, métodos, propriedades e assim por diante. Neste curso continuaremos trabalhando nesse sistema de contas, melhorando-o e compartilhando o código para deixá-lo fácil de trabalhar.
+
+Outra coisa que criaremos neste curso, agora o ByteBank nos pediu um sistema de funcionários, então temos um funcionário diretor, um funcionário gerente, todo funcionário vai ter nome, salário e CPF, e eles terão uma bonificação.
+
+Além disso, eles terão que usar um sistema interno, e nós faremos o sistema de autenticação para esse sistema interno deles.
+
+Vamos também ver código para fazer esse sistema de autenticação bem simples, no qual vamos tratar tanto os gerentes quanto os diretores e clientes, porque nosso cliente também vai ter que usar esse sistema da mesma maneira, já que os três terão que fazer login nesse sistema que estão criando para todo mundo usar.
+
+Vamos aprofundar muito mais conceito em orientação a objetos, aumentaremos o tamanho do nosso projeto, tentando deixá-lo de uma maneira fácil de trabalhar. Sempre vendo boas práticas e maneiras de trabalhar bem legais para continuarmos tendo uma boa manutenção no nosso código.
+## Roadmap
+
+- Aprofundamos nossos conhecimentos em Orientação a objetos
+- Aprendemos o que é o "DuckType"
+- Entendemos quando e como usar herança dentro de seus projetos
+- Conhecemos boas práticas de programação
+- Vimos código JavaScript moderno para utilizar em projetos
+## Stack utilizada
+
+**Front-end:** JavaScript
+## Screenshots
+
+![Code ByteBank Continuação](https://cdn.discordapp.com/attachments/1045720339772088342/1090377620086083594/bytebankcodecontinuacao.png)
+## Demonstração
+
+![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFhM2Q4NWZkNjlmYzM0MWMyZTFiZjZhNTU3NTZiZjhiYjdkMWQ3YyZjdD1n/7lvlJKDma1BVuw2Bmi/giphy.gif)
+
+❤️
+[Clique aqui e assista no YouTube!](https://youtu.be/BBesDQoPsok)
+## Deploy
+
+Para fazer o deploy desse projeto rode
+
+```bash
+  npm run deploy
+```
+
+ou acesse o site [clicando aqui](https://app-ceep-alura.netlify.app/).
+## Referência
+
+ - [JavaScript: interfaces e Herança em Orientação a Objetos - Alura](https://cursos.alura.com.br/course/javascript-polimorfismo)
+
+ - [Herança em JavaScript](https://www.alura.com.br/artigos/heranca-em-javascript#:~:text=Em%2520linguagens%2520orientadas%2520a%2520objetos,alguma%2520maneira%2520de%2520estend%25C3%25AA%252Dlas)
+## Autores
+
+- [@aluraonline](https://www.alura.com.br/)
+- [@oracledobrasil](https://www.oracle.com/br/education/oracle-next-education/)
+
+## Certificado
+
+Segue no link abaixo o certificado do curso
+
+[Certificado Javascript 05](https://cdn.discordapp.com/attachments/1045720339772088342/1090378235549847632/image.png)
+
+____
+
+
