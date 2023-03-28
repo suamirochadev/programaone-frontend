@@ -368,3 +368,47 @@ E nós vamos ver também como utilizar máscaras para nossa validação do formu
 Segue no link abaixo o certificado do curso
 
 [Certificado Javascript 03](https://cdn.discordapp.com/attachments/1045720339772088342/1086369697534062692/image.png)
+
+____
+
+
+## Javascript: Interface Orientado a Objeto - 7
+
+O objetivo agora é criarmos um sistema de conta-corrente e cadastro de clientes para o contratante Bytebank, de modo que seja possível manipular o saldo desses usuários e realizar operações bancárias.
+
+Trabalhando com Orientação a Objetos, conheceremos diversos novos conceitos, como a palavra new, a entidade Cliente (que nós mesmos criaremos), as chamadas de métodos depositar() e sacar(), que não são da linguagem (e inclusive estão em português) e assim por diante.
+
+Um dos conceitos principais de Orientação a Objetos que será abordado nesse curso são as classes. No caso, teremos uma classe ContaCorrente contendo atributos estáticos, atributos privados e uma nova proposição para os atributos privados da linguagem, com cerquilha (#) precedendo o atributo, ao invés da convenção atual, que é o underline (_).
+
+Trabalharemos também com os assessores get e set, como os construtores facilitam o nosso fluxo de criação de classes e objetos e como conseguimos nomear comportamentos e compartilhá-los, facilitando a leitura do código. 
+
+E nós vamos ver também como utilizar máscaras para nossa validação do formulário. Então na outra página que nós temos para trabalhar, que vai ser a página administrativa de cadastro de produto, nós vamos aprender a utilizar máscara monetária. Como nós vamos importar essa máscara, onde pegar essa máscara e também como configurar para usar de acordo com o que nós precisamos. Então fique comigo durante todo esse curso que nós vamos aprender bastante.
+## Roadmap
+
+- Dominamos o paradigma de programação mais usado no mercado.
+- Entendemos o que são referências e objetos.
+- Usamos atributos, métodos da instância e da classe.
+- Definimos objetos através de construtores.
+- Aprendemos sobre encapsulamento.
+## Stack utilizada
+
+**Front-end:** JavaScript
+## Screenshots
+
+![Code ByteBank](https://cdn.discordapp.com/attachments/1045720339772088342/1090373242637787238/bytebankcode.png)
+
+## Referência
+
+ - [JavaScript: programando a Orientação a Objetos - Alura](https://cursos.alura.com.br/course/javascritpt-orientacao-objetos)
+
+ - [Organize seu código Javascript de maneira fácil!](https://www.alura.com.br/artigos/organize-seu-codigo-javascript-de-maneira-facil)
+## Autores
+
+- [@aluraonline](https://www.alura.com.br/)
+- [@oracledobrasil](https://www.oracle.com/br/education/oracle-next-education/)
+
+## Certificado
+
+Segue no link abaixo o certificado do curso
+
+[Certificado Javascript 04](https://cdn.discordapp.com/attachments/1045720339772088342/1090373943434682459/image.png)
